@@ -1,0 +1,103 @@
+1. List comperehence -- http://www.secnetix.de/olli/Python/list_comprehensions.hawk
+2. Pickling -- https://pythontips.com/2013/08/02/what-is-pickle-in-python/
+3. Decorator --- https://realpython.com/blog/python/primer-on-python-decorators/
+4. Generators --- https://www.programiz.com/python-programming/generator
+5. Map/Filter/Reduce -- http://book.pythontips.com/en/latest/map_filter.html
+6. Regular Experssion
+7. MultiThreading /Processing/Connection Pooling
+8. Inheritance (super keyword = http://www.pythonforbeginners.com/super/working-python-super-function, MRO, meta class- https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
+9. Keywords like yeild,lamda
+10. abstract class,enumerates(http://book.pythontips.com/en/latest/enumerate.html)
+11..format and .join
+12. By reference and by value - https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/
+
+13. Different type of sorting.
+14. Docker, Flask, SQl alchemy, ORM
+15. file opening mode
+16. __all__ use.
+17. Make a class private or prevent from importing in python
+
+1) Explain about abstract class ??
+2) Difference between 1)Abstract method 2)static method 3) instance method and 4) class method - https://stackoverflow.com/questions/17134653/difference-between-class-and-instance-methods
+
+3) Diffrence between __init__ and __new__ magical methods ?? - https://stackoverflow.com/questions/674304/why-is-init-always-called-after-new
+4) Could you please explain the magical methods in python do you know?? http://farmdev.com/src/secrets/magicmethod/index.html
+6) method overloading(use keyword arguments)/method over riding(use inheritance with same method name) in python ?? How to achive it ??
+7) Shallow copy and deep copy
+8) decorator for class in python ??
+9) list comprhension for even numbers ??
+10) diffrence between list and genertors ??
+11) diffrence between yeild and return keyword
+12) set vs tuple vs list vs dict diffrences
+13) Can we use list for dictinary key??
+14) *args type ?? can we pass type to @args ??
+15) defaultdict module (it is python collection module)?
+17). Else and finally in python
+18_ Inheritence(https://www.geeksforgeeks.org/oop-in-python-set-3-inheritance-examples-of-object-issubclass-and-super/)
+16). Zip function
+20. string and repr
+21. Diamond problem/MRO (https://makina-corpus.com/blog/metier/2014/python-tutorial-understanding-python-mro-class-search-path)
+
+8)difference between %s and %r in python
+9)metaclass in python
+10)requirement.txt use in python
+11)what is the difference between os.unlink and os.remove in python
+14)route module in python ?
+
+-------------------------------------------------------------
+1)HCL Python scripting developer Interview questions:-
+1) How do you check list of files in the given path in python ??
+2) How do you check whether file is exist or not in python
+3) How do you perform copy file cmd in python ??
+4) What is d use of setup.py in python
+5) What is d use of __init__=__main__: condition in python??
+6) What is d type of *args and **kargs ??
+7) sys.path use in python ??
+
+-------------------------------------------
+How do you check the file existence and their types in Python?
+Explain how to delete a file in Python?
+
+----------------------------------------------
+4) Explain Inheritance in Python with an example.
+
+5) Explain polymorhism in python with an static binding and dynamic binding
+    examples ??
+
+6) Method overriding ???
+
+7) How instance variables are different from class variables?
+
+8) Can you write code to check whether the given object belongs
+    to a class or its subclass?
+
+9) Abstract class implementation in python ?? can we create object for 
+
+    abstract class ?? 
+
+    if not then how we can call the abstract class members??
+
+10) Super keyword use in python oops concept??
+
+12) Compostion vs inheritance vs aggregation ??
+
+13) Static variables and static methods in python ??
+
+14) Does diamond probelm exist in python ??
+
+15) Does python support multiinheritance ??
+
+16) Does Python supports interfaces like in Java? Discuss.
+
+17) Name and explain the three magic methods of Python that are used in
+      the construction and initialization of custom Objects.
+
+19) How to prevent class 'a' from being inherited by another class? and
+      also how to prevent parent class method 'm' from being 
+
+      inherited by another class?
+
+
+20) How do you implement constant variables in python ???
+
+21) Exact use of Abstract class??
